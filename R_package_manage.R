@@ -4,7 +4,7 @@ library(devtools)
 library(roxygen2)
 
 startDirectory <- getwd()
-packageName <- "CSDADepRef"
+packageName <- "ECOSTASpecDepRef"
 packageDir <- file.path(paste0(startDirectory, "/", packageName))
 
 print(startDirectory)
